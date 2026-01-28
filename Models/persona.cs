@@ -1,4 +1,5 @@
-
+namespace Taller1.Models
+{
     public class Persona
     {
         public string Nombre { get; set; }
@@ -12,3 +13,4 @@
 
         public override string ToString() => $"{Nombre} ({Edad})";
     }
+}

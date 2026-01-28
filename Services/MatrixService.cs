@@ -1,5 +1,6 @@
 using System;
-
+namespace Taller1.Services
+{
     public static class MatrixService
     {
         // 13) Leer matriz cuadrada (retorna matriz)
@@ -92,3 +93,4 @@ using System;
             return maxLen + 1;
         }
     }
+}

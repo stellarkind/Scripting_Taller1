@@ -1,5 +1,6 @@
 using System.Threading.Tasks;
-
+namespace Taller1.Services
+{
     public static class AsyncService
     {
         // 20) Async con retorno Task<string>
@@ -9,3 +10,4 @@ using System.Threading.Tasks;
             return $"Descargado: {recurso}";
         }
     }
+}

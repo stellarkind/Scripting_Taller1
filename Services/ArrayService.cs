@@ -1,6 +1,7 @@
+namespace Taller1.Services
+{
     public static class ArrayService
     {
-        // 11) Array -> Array
         public static int[] InvertirArray(int[] arr)
         {
             int[] inv = new int[arr.Length];
@@ -9,6 +10,6 @@
             return inv;
         }
 
-        // 12) Genérica
         public static T ElegirPrimero<T>(T a, T b) => a;
     }
+}

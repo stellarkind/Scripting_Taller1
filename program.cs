@@ -4,6 +4,8 @@ using System.Threading.Tasks;
 using TuProyecto.Models;
 using TuProyecto.Services;
 
+class Program
+{
     static async Task Main()
     {
         Console.WriteLine("=== POO Estricto: 20 Firmas + Invocaciones ===\n");
@@ -95,3 +97,4 @@ using TuProyecto.Services;
 
         Console.WriteLine("\n=== Fin ===");
     }
+}

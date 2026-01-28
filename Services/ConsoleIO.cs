@@ -1,4 +1,7 @@
-using System;    
+using System;
+
+namespace Taller1.Services
+{
 public static class ConsoleIO
     {
         public static int LeerEntero(string mensaje)
@@ -25,3 +28,4 @@ public static class ConsoleIO
             }
         }
     }
+}

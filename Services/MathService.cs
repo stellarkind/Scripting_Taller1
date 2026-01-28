@@ -1,5 +1,6 @@
 using System;
-
+namespace Taller1.Services
+{
     public static class MathService
     {
         // 1) Sin parámetros, sin retorno
@@ -53,3 +54,4 @@ using System;
             return (min, max);
         }
     }
+}

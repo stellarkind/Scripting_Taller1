@@ -1,5 +1,6 @@
 using System;
-
+namespace Taller1.Services
+{
     public static class StringService
     {
         // 17) Contar vocales (retorna int)
@@ -52,3 +53,4 @@ using System;
             return true;
         }
     }
+}
