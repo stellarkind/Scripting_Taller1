@@ -17,8 +17,6 @@ El proyecto utiliza una **estructura básica de Programación Orientada a Objeto
 
 ---
 
----
-
 ## Funciones implementadas (20)
 
 Las siguientes funciones pueden ejecutarse desde el **menú interactivo** en consola:
