@@ -2,7 +2,7 @@
 ## Funciones y variaciones en C#
 
 **Asignatura:** Scripting  
-**Taller:** 1  
+**Taller:** 1 - Taller de repaso
 **Lenguaje:** C#  
 **Tipo de proyecto:** Aplicación de consola (.NET)  
 **Autora:** Stella Pérez  
@@ -11,7 +11,7 @@
 
 ## Descripción
 
-Este repositorio contiene el desarrollo del **Taller 1 de la asignatura Scripting**, cuyo objetivo es evidenciar el uso correcto del concepto de **función (método)** en C#, implementando **20 firmas diferentes** con distintas variaciones, tal como se solicita en el enunciado del reto.
+Este repositorio contiene el desarrollo del **Taller 1 de repaso de la asignatura Scripting**, cuyo objetivo es evidenciar el uso correcto del concepto de **función (método)** en C#, implementando **20 firmas diferentes** con distintas variaciones, tal como se solicita en el enunciado del reto.
 
 El proyecto utiliza una **estructura básica de Programación Orientada a Objetos (POO)** y se apoya en un **menú interactivo en consola**, desde el cual es posible ejecutar cada función de manera individual, ingresar datos por teclado y observar sus resultados.
 
