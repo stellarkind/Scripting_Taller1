@@ -15,9 +15,32 @@ Este repositorio contiene el desarrollo del **Taller 1 de repaso de la asignatur
 
 El proyecto utiliza una **estructura básica de Programación Orientada a Objetos (POO)** y se apoya en un **menú interactivo en consola**, desde el cual es posible ejecutar cada función de manera individual, ingresar datos por teclado y observar sus resultados.
 
+--- 
+Lista de firmas (20) 
+- public int Sumar(int a, int b);
+- protected bool EsPar(int numero);
+- public void ImprimirMensaje(string mensaje);
+- protected byte ObtenerNivelAcceso(int usuarioId);
+- internal long CalcularTotal(long a, long b);
+- public float ConvertirTemperatura(float grados);
+- private char ObtenerInicial(string nombre);
+- protected short CalcularEdad(short anioNacimiento);
+- private void ImprimirMensaje(string mensaje);
+- public bool ValidarUsuario(string usuario, string password);
+- public long CalcularPuntaje(long aciertos, long errores);
+- protected byte CalcularPrioridad(int nivel);
+- internal double CalcularDistancia(double x1, double y1);
+- internal long GenerarCodigo(long semilla);
+- protected short CalcularDiferencia(short a, short b);
+- private bool ExisteArchivo(string ruta);
+- protected double CalcularRaiz(double numero);
+- protected byte ObtenerDiaSemana(DateTime fecha);
+- public long ConvertirABinario(long decimalValor);
+- private float CalcularVelocidad(float distancia, float tiempo); 
+
 ---
 
-## Funciones implementadas (20)
+## Funciones implementadas en el repositorio (20)
 
 Las siguientes funciones pueden ejecutarse desde el **menú interactivo** en consola:
 
